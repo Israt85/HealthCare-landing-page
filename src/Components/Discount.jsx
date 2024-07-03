@@ -28,9 +28,11 @@ at 50% Off!
 </span> </button>
 </div>
    </div>
+   <div data-aos="fade-up">
    <div className='flex-shrink-0'>
             <img src={logo} alt="" className='mx-10 h-auto max-w-full'/>
         </div>
+   </div>
     </div>
 </div>
 </div>
