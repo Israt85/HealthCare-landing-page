@@ -4,7 +4,7 @@ import img3 from '../../src/assets/Media/Rectangle 27.png'
 
 const Service = () => {
     return (
-        <div className="w-[1156px] h-[898px] bg-white my-32 ">
+        <div className="w-[1156px] h-[898px] bg-[#FFFFF5] my-32 ">
         <div className='gap-6 flex justify-evenly'>
         <div className='w-[470px] h-[355px]'>
             <button className="btn rounded-3xl my-2 bg-[#f2f2f5] btn-outline border-[#343268]">Service</button>
